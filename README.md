@@ -76,3 +76,4 @@ Starbucks have more male customers than females and other gender.
 KNeighborsClassifier turned out to be the best algorithm for this task and predicts customer response with an accuracy rate of almost % after hyperarameter tuning. Given the fact that also the same customer will react differently the same offer.
 
 ## Blog:
+https://medium.com/@nidhivinay24/starbucks-customer-segmentation-b4f82b7a8192
