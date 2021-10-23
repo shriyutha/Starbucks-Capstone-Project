@@ -1,6 +1,6 @@
 # Starbucks Capstone Challenge
 
-##Installation:
+## Installation:
 
 * Python Libraries:
 * Pandas.
@@ -74,3 +74,5 @@ Customers are attracted to BOGO and Discount offers more as compared to Informat
 The buying behavior of a customer is independent of its annual income
 Starbucks have more male customers than females and other gender.
 KNeighborsClassifier turned out to be the best algorithm for this task and predicts customer response with an accuracy rate of almost % after hyperarameter tuning. Given the fact that also the same customer will react differently the same offer.
+
+## Blog:
