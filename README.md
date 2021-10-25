@@ -73,7 +73,7 @@ The result of the offer_type was predicted by training a supervised classifier.
 Customers are attracted to BOGO and Discount offers more as compared to Informational Offers
 The buying behavior of a customer is independent of its annual income
 Starbucks have more male customers than females and other gender.
-KNeighborsClassifier turned out to be the best algorithm for this task and predicts customer response with an accuracy rate of almost % after hyperarameter tuning. Given the fact that also the same customer will react differently the same offer.
+KNeighborsClassifier turned out to be the best algorithm for this task and predicts customer response with an accuracy rate of almost 89% after hyperarameter tuning. Given the fact that also the same customer will react differently the same offer.
 
 ## Blog:
 https://medium.com/@nidhivinay24/starbucks-customer-segmentation-b4f82b7a8192
